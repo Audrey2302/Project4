@@ -463,8 +463,9 @@ nav .caret {
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
-    font-size: 16px!important;
-    color: rgb(106, 86, 86)!important;
+    font-size: 17px!important;
+    font-weight: bold;
+    color: #573b3b!important;
 }
 
 .btn {
@@ -683,7 +684,7 @@ a {
 .hero-bloc-text {
     font-size: 38px;
     font-weight: bold;
-    color: rgb(106, 86, 86)!important;
+    color: #573b3b!important;
 }
 
 .hero-bloc-text-sub {
