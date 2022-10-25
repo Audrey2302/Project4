@@ -804,6 +804,11 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.btn-lg {
+    color: rgb(106, 86, 86)!important;
+    
+}
+
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #FFFFFF!important;
